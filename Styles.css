@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container{
+    width: 100%;
+    border-bottom: 3px solid black;
+    padding: 2px;
+}
+.sub-container{
+    width: 50%;
+    margin: auto;
+}
+ h1{
+    margin-left: 20%;
+    font-size: 24px;;
+}
+.text{
+    margin: auto;
+    width: 60%;
+    color: RGBA(0,0,0,0.6);
+    margin-top:20px;
+}
+iframe{
+    margin: 5px 0;
+}
