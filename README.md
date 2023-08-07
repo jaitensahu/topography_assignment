@@ -1,3 +1,3 @@
 # topography_assignment
 hosted link
-https://jaitensahu.github.io/topography_assignment/
+https://jaitensahu.github.io/typography_assignment/
